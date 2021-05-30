@@ -57,9 +57,9 @@
 ---
 
 ### ⚡ Visual Status: 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sobankhanlodhi&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=dark" />
+<img height="170em" src="https://github-readme-stats-three-gilt-51.vercel.app/api?username=sobankhanlodhi&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobankhanlodhi&theme=dark&hide_border=true&line_height=27&width=27"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobankhanlodhi&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats-three-gilt-51.vercel.app/api/top-langs/?username=sobankhanlodhi&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
 
 
 ---
