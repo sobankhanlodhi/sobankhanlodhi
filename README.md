@@ -3,19 +3,17 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=sobankhanlodhi.visitor-badge&style=flat-square&color=0088cc)
 
 ### Should I Start ?
-<p align="center">I am an Aspiring Software Engineer with love to solve problems along with having a can-do attitude, throughout my journey, I have been driven by my curiosity to find answers and solutions in a best way possible. Happy to meet new people with great ideas and be involved into new projects 🎉
+<p align="center">I am a Software Engineer with love to solve problems along with having a can-do attitude, throughout my journey, I have been driven by my curiosity to find answers and solutions in a best way possible. Happy to meet new people with great ideas and be involved into new projects 🎉
 </p>
 
 <img align="right" alt="Working Code" src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif" />
 
 ### Highlights:
 
-- 🛠 &nbsp; I’m currently working on Web Development 🌐 with JavaScript/ES6, Nodejs, Express, React, Mongodb, PostgreSQL etc.
-- 🌱 &nbsp; I’m currently learning Backend Langages [Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [Apollo](https://www.apollographql.com/) & Data Structures 🤖
+- 🛠 &nbsp; I’m currently working at Dubizzle Labs Subsidiary of Dubizzle Group.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/sobankhanlodhi).
 - 👾 &nbsp; Fun fact: I use tabs over spaces & I always love to explore my skillset and learn latest programming technologies and wish to work with huge crew of professional developers.
-- 😄 Pronouns: He/Him/His/Himself
-- 📫 &nbsp; How to reach me: mailto:sobankhanlodhi@gmail.com 
+- 📫 &nbsp; Reach me @ mailto:sobankhanlodhi@gmail.com 
 
 ---
 ### Some of my Favorites:
