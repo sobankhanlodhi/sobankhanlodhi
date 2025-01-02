@@ -13,7 +13,7 @@
 - 🛠 &nbsp; I’m currently working at Dubizzle Labs Subsidiary of Dubizzle Group.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/sobankhanlodhi).
 - 👾 &nbsp; Fun fact: I use tabs over spaces & I always love to explore my skillset and learn latest programming technologies and wish to work with huge crew of professional developers.
-- 📫 &nbsp; [Email me](mailto:sobankhanlodhi@gmail.com)
+- 📫 &nbsp; Reachable @[sobankhanlodhi](mailto:sobankhanlodhi@gmail.com)
 
 ---
 ### Some of my Favorites:
