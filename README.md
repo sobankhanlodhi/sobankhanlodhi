@@ -57,9 +57,9 @@
 ---
 
 ### ⚡ Visual Status: 
-<img height="170em" src="https://github-readme-stats-three-gilt-51.vercel.app/api?username=sobankhanlodhi&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=dark" />
-
-<img height="170em" src="https://github-readme-stats-three-gilt-51.vercel.app/api/top-langs/?username=sobankhanlodhi&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats-three-gilt-51.vercel.app/api?username=sobankhanlodhi&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sobankhanlodhigmailcoms-projects.vercel.app?user=sobankhanlodhi&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+<img height="170em" src="https://github-readme-stats-three-gilt-51.vercel.app/api/top-langs/?username=sobankhanlodhi&show_icons=true&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=8"/>
 
 
 ---
